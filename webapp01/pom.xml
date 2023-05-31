@@ -48,6 +48,14 @@
 			<artifactId>axis2-transport-local</artifactId>
 			<version>${axis2.version}</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.13.2</version>
+		</dependency>
+		
+		
 	</dependencies>
 
 	<build>
