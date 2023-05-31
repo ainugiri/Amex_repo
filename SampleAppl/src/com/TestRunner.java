@@ -1,0 +1,11 @@
+package com;
+
+public class TestRunner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SampleClasssPrintVal s = new SampleClasssPrintVal();
+		s.display();
+	}
+
+}
